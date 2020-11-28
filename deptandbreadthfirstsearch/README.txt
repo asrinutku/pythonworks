@@ -1,0 +1,3 @@
+Derinlik öncelikli arama(DFS) ve Genişlik öncelikli arama(BFS) algoritmaları bilgisayar biliminde  Graph threory kavramı altında bulunmaktadırlar.Ağaç yapısına dönüştürülerek ifade edilebilecek olmalarından ötürü graf yapılarının çözümünde kullanılan temel algoritlmalardır.
+
+Depth-first search (DFS) and Width-first-search (BFS) algorithms are under the concept of Graph threory in computer science. They are the basic algorithms used in solving graph structures because they can be expressed by transforming them into tree structures.
