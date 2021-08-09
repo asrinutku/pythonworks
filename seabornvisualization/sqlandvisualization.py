@@ -9,9 +9,7 @@ import pyodbc
 import numpy as np
 import seaborn as sns
 
-conn = pyodbc.connect('Driver={SQL Server};'
-                      'Server=DESKTOP-M006Q3T;'
-                      'Database=AtıklarDb;'
+conn = pyodbc.connect(
                       'Trusted_Connection=yes;')
 
 cursor = conn.cursor()
